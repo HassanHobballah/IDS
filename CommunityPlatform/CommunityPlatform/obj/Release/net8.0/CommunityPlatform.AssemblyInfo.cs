@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommunityPlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+072e30ba364d2acdf5aa341f94c242374f66da98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a2af431e31601b12bc4e3c3f1476f9506734a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommunityPlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommunityPlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
